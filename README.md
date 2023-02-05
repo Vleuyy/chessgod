@@ -1,0 +1,2 @@
+# chessgod
+chess.com assistant
