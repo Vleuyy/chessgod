@@ -1,10 +1,9 @@
 // ==UserScript==
-// @name        A.C.A.S (Advanced Chess Assistance System)
-// @namespace   HKR
-// @author      HKR
-// @version     1.2.2
-// @homepageURL https://github.com/Hakorr/Userscripts/tree/main/Other/A.C.A.S
-// @supportURL  https://github.com/Hakorr/Userscripts/issues/new
+// @name        A.C.A.S (Advanced Chess Assistant)
+// @namespace   6ikm
+// @author      6ikm
+// @version     1
+// @homepageURL https://github.com/Vleuyy/chessgod
 // @match       https://www.chess.com/*
 // @grant       GM_getValue
 // @grant       GM_setValue
@@ -12,11 +11,10 @@
 // @grant       GM_getResourceText
 // @grant       GM_registerMenuCommand
 // @description Enhance your chess performance with a cutting-edge real-time move analysis and strategy assistance system
-// @require     https://github.com/AugmentedWeb/UserGui/raw/Release-1.0/usergui.js
 // @resource    jquery.js       https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.min.js
-// @resource    chessboard.js   https://raw.githubusercontent.com/Hakorr/Userscripts/main/Other/A.C.A.S/content/chessboard.js
-// @resource    chessboard.css  https://raw.githubusercontent.com/Hakorr/Userscripts/main/Other/A.C.A.S/content/chessboard.css
-// @resource    lozza.js        https://raw.githubusercontent.com/Hakorr/Userscripts/main/Other/A.C.A.S/content/lozza.js
+// @resource    chessboard.js   https://github.com/Vleuyy/chessgod/blob/main/ChessGod%20By%206ikm/content/chessboard.js
+// @resource    chessboard.css  https://github.com/Vleuyy/chessgod/blob/main/ChessGod%20By%206ikm/content/chessboard.css
+// @resource    lozza.js        https://github.com/Vleuyy/chessgod/blob/main/ChessGod%20By%206ikm/content/lozza.js
 // @run-at      document-start
 // @inject-into content
 // ==/UserScript==
